@@ -1,2 +1,6 @@
 # oscerse.github.io
-My Home Page
+
+I did not make this.
+
+Full credit goes to:
+https://github.com/TB-96/Evening-Startpage
