@@ -31,8 +31,8 @@ function startTime() {
 
 const quotes = [
   'Hello, world...',
-  'yeet',
-  'fuq'
+  'You should add more quotes',
+  'They laughed at Louis Armstong when he said he was gonna go to the moon. Now he"'"s up there, laughing at them.'
 ];
 document.getElementById("header-quote").innerText = quotes[
   Math.floor(Math.random() * quotes.length)
